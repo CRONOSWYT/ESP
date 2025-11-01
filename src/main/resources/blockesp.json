@@ -1,0 +1,15 @@
+{
+  "radius": 32,
+  "blocks": {
+    "minecraft:diamond_ore": {
+      "enabled": true,
+      "color": "#FF00FF00",
+      "opacity": 1.0
+    },
+    "minecraft:ancient_debris": {
+      "enabled": true,
+      "color": "#FFFF8800",
+      "opacity": 0.9
+    }
+  }
+}
