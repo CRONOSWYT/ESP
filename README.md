@@ -81,31 +81,7 @@ Notas:
   
 - Artefacto: `build/libs/block-esp-1.0.0.jar`.
 
-## Publicación en Modrinth (guía rápida)
 
-- Proyecto:
-  - Nombre: `Block ESP`.
-  - Slug sugerido: `block-esp`.
-  - Resumen: `ESP de bloques e ítems con ver a través, GUI y auto-actualización (NeoForge 1.21.8)`.
-  - Categorías: `Utility`, `Client-side`, `Performance` (opcional).
-  - Loaders: `neoforge`.
-  - Versiones compatibles: `1.21.8` (añade otras si lo verificas).
-  - Licencia: MIT (ya incluida en `LICENSE`). Selecciónala en Modrinth.
-  - Enlaces: GitHub repo y Issues.
-- Versión/Release:
-  - Número: `1.0.0`.
-  - Tipo: `release`.
-  - Changelog: ver sección "Changelog" de este README.
-  - Artefacto principal: `build/libs/block-esp-1.0.0.jar`.
-  - Etiquetas/Assets opcionales: icono del mod (512x512), capturas (GUI, resaltado en mundo).
-- Descripción: puedes pegar íntegramente este README (recorta secciones de build si deseas).
-
-## Publicación en GitHub
-
-- Añade este `README.md` y `LICENSE` en la raíz del proyecto.
-- Usa `Releases` para adjuntar `block-esp-1.0.0.jar` y el changelog.
-- Configura `Issues` para soporte.
-- (Opcional) Añade `LICENSE` (MIT/Apache-2.0) y CI si deseas.
 
 ## Changelog
 
